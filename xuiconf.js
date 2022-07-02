@@ -1,7 +1,8 @@
 
+
 // [[Page Appearance
 xui.ini.$PageAppearance = {
-    "theme":"webflat"
+    "theme" : "webflat"
 };
 // ]]Page Appearance
 
@@ -11,9 +12,10 @@ xui.ini.$PageAppearance = {
 
 // [[Develop Env Setting
 xui.ini.$DevEnv = {
-    "designViewConf":{
-        "width":480,
-        "height":800
+    "designViewConf" : {
+        "touchDevice" : true,
+        "width" : 480,
+        "height" : 800
     }
 };
 // ]]Develop Env Setting
